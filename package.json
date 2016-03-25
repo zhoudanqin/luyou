@@ -1,0 +1,22 @@
+{
+  "name": "luyou",
+  "version": "1.0.0",
+  "description": "luyou",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhoudanqin/luyou.git"
+  },
+  "keywords": [
+    "luyou"
+  ],
+  "author": "1554737213@qq.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhoudanqin/luyou/issues"
+  },
+  "homepage": "https://github.com/zhoudanqin/luyou#readme"
+}
